@@ -24,7 +24,6 @@ public class index {
             System.out.println("|------------------------------------|");
             System.out.println("Escolha uma opcao: ");
             opcao = teclado.nextInt();
-            print
 
             if (opcao == 1) {
                 System.out.println("Qual tipo de moeda gostaria de adicionar: ");
